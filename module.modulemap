@@ -1,4 +1,4 @@
-module libetpan {
+module libetpan [system] {
     header "libetpan.h"
     header "clist.h"
 
