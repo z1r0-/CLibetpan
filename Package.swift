@@ -3,5 +3,6 @@
 import PackageDescription
 
 let package = Package(
-    name      : "Libetpan"
+    name      : "Libetpan",
+    pkgConfig: "libetpan-config"
 )
