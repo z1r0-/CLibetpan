@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name      : "libetpan",
+    name      : "Libetpan",
     pkgConfig : "./libetpan-config"
     providers : [
         .brew(["libetpan"])
