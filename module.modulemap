@@ -1,6 +1,5 @@
 module libetpan [system] {
-    header "libetpan.h"
-    header "clist.h"
-
+    header "shim.h"
+    link "libetpan"
     export *
 }
