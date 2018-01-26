@@ -3,12 +3,5 @@
 import PackageDescription
 
 let package = Package(
-    name         : "Libetpan",
-    dependencies : [
-        name      : "libetpan",
-        providers : [
-            .Brew("libetpan"), 
-            .Apt("libetpan-dev")
-        ]    
-    ],
+    name      : "Libetpan"
 )
