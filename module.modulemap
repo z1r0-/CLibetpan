@@ -1,5 +1,5 @@
 module libetpan [system] {
     header "shim.h"
-    link "etpan"
+    link "foo"
     export *
 }
