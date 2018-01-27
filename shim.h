@@ -1,1 +1,1 @@
-#include <libetpan/libetpan.h>
+#include <libetpan.h>
