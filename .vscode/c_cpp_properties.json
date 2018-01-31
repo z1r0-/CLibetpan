@@ -9,7 +9,8 @@
                 "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include",
                 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include",
                 "${workspaceRoot}",
-                "/usr/local/Cellar/libetpan/1.8"
+                "/usr/local/Cellar/libetpan/1.8",
+                "/usr/local/Cellar/libetpan/1.8/include/libetpan"
             ],
             "defines": [],
             "intelliSenseMode": "clang-x64",
