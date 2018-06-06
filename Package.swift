@@ -3,9 +3,9 @@
 import PackageDescription
 
 let package = Package(
-    name      : "CLibetpan",
-    pkgConfig : "libetpan-config",
-    providers : [
+    name: "libetpan",
+    pkgConfig: "libetpan-config",
+    providers: [
         .brew(["libetpan"]),
         .apt(["libetpan-dev"])
     ]
